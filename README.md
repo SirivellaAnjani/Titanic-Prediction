@@ -1,2 +1,2 @@
 # Titanic-Prediction
- Predicting who will survive the titanic, using sklean
+ Predicting who will survive the titanic, using sklearn
